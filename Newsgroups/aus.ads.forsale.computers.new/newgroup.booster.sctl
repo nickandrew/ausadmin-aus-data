@@ -1,34 +1,34 @@
 Path: bounce-back
-From: aus.* Newsgroups Administration <ausadmin@aus.news-admin.org>
+From: aus Newsgroups Administration <ausadmin@aus.news-admin.org>
 Newsgroups: aus.ads.forsale.computers.new
 Subject: cmsg newgroup aus.ads.forsale.computers.new
 Control: newgroup aus.ads.forsale.computers.new
 Approved: ausadmin@aus.news-admin.org
-Message-ID: <1021900096.8316@aus.news-admin.org>
-Date: Mon, 20 May 2002 13:08:16 -0000
-Lines: 38
+Message-ID: <1059103856.16341@aus.news-admin.org>
+Date: Fri, 25 Jul 2003 03:30:56 -0000
+Lines: 39
 X-Info: See ftp://ftp.isc.org/pub/pgpcontrol/README
 X-Aussies: See http://aus.news-admin.org/ for Australian newsgroup information
 X-PGP-Sig: 2.6.3ia Subject,Control,Message-ID,Date,From,Sender
-	iQCVAwUBPOj1QFL4gcrLUivRAQEqiQP/eVb47KG7xH++qSriCX1IMcLGQN3wTGT1
-	1VWLGQkf4i9OQPJ0E4jjwAwx+4tEdYDruQHTFci2V+Ecl8EwQkw5ptyA5bjj0g9U
-	FxrGJwZn/7qbuEAmZKGxXMtAVQvfmEPkOzwf64hQgsvv/NZzjRFDBA5mDIE5rHkg
-	6F0RU2KG3HM=
-	=RJNA
+	iQCVAwUBPyCkclL4gcrLUivRAQGuxAP/aLvA1fI/EbG6kLYxE1mEJtTsDR/PlU49
+	kMIAELwdHx5IE3zXrYwtHwQvXh2CpB+NSnyUGj2ykszvvNjogPVlS30T8XxwQa6m
+	sTACIlEiHzg/Y0uzK8+4Z9pAojwfS9whEIxIgJ2Jw7Mo/tm89BXIMSJeEpxEKflH
+	0/e60qWt4oo=
+	=/NgV
 
 aus.ads.forsale.computers.new is an unmoderated newsgroup which is part of
-the aus.* hierarchy maintained by ausadmin (aus.* Newsgroups Administration).
+the aus hierarchy maintained by ausadmin (aus.* Newsgroups Administration).
 
 For your newsgroups file:
 aus.ads.forsale.computers.new	Advertisements for new computer hardware
 
 This is a booster control message for new sites and those which do
-not see or do not process the (ir)regular aus.* checkgroups messages.
+not see or do not process the (ir)regular ausadmin checkgroups messages.
 
 If you wish to verify that this newsgroup is legitimate,
 please check the ausadmin information for this newsgroup at:
 
-	http://aus.news-admin.org/groupinfo.php/aus.ads.forsale.computers.new
+	http://aus.news-admin.org/groupinfo.cgi/aus.ads.forsale.computers.new/
 
 This control message should be signed with PGP. If it is not,
 or if the signature is invalid, it _may_ be forged. Please see
@@ -41,7 +41,7 @@ The ausadmin public key may be downloaded from:
 	http://aus.news-admin.org/ausadmin.asc
 
 Please configure your newsserver to automatically honour ausadmin
-control messages for the aus.* hierarchy. If you use INN, then
+control messages for the aus hierarchy. If you use INN, then
 your control.ctl file should contain these lines:
 
 ## AUS (Australia)
@@ -51,6 +51,7 @@ your control.ctl file should contain these lines:
 checkgroups:ausadmin@aus.news-admin.org:aus.*:verify-ausadmin@aus.news-admin.org
 newgroup:ausadmin@aus.news-admin.org:aus.*:verify-ausadmin@aus.news-admin.org
 rmgroup:ausadmin@aus.news-admin.org:aus.*:verify-ausadmin@aus.news-admin.org
+
 
 Thanks,
 Nick Andrew <ausadmin@aus.news-admin.org>
