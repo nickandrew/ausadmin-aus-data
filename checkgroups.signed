@@ -4,17 +4,17 @@ Newsgroups: aus.net.news
 Subject: cmsg checkgroups
 Control: checkgroups
 Approved: ausadmin@aus.news-admin.org
-Message-ID: <1030926773.29163@aus.news-admin.org>
-Date: Mon, 2 Sep 2002 00:32:53 -0000
-Lines: 142
+Message-ID: <1035684898.20425@aus.news-admin.org>
+Date: Sun, 27 Oct 2002 02:14:58 -0000
+Lines: 143
 X-Info: See ftp://ftp.isc.org/pub/pgpcontrol/README
 X-Aussies: See http://aus.news-admin.org/ for Australian newsgroup information
 X-PGP-Sig: 2.6.3ia Subject,Control,Message-ID,Date,From,Sender
-	iQCVAwUBPXKxulL4gcrLUivRAQHl/wP/V3MQFm2veNDJnuIt5rrWUHqdZOr2gzSc
-	QbCowShDLom4HbvTBjV1beMtX3jiH75Tik66dxnHcpmuK68h+5c4OT0bA4c4E/W4
-	m6zAOVT7jfE24q1xaLMEjaBtQ/m8n2iP7nq+xHn2zLJmUxCt9X0ZZA4w+9Ri2bbf
-	S4GxeZMNguQ=
-	=RYax
+	iQCVAwUBPbtMKVL4gcrLUivRAQFtpQP/Vn8JJ4r89CI2Cb39dcydAJSJjDvfzJte
+	q2RVFuoYp8dyBbJ1i83+w8fD6v4sPX52Afokc3rgC+IhonYrK2PUvqQXa3R6hCxf
+	R9j5cxafUc1YJ5VfKDSSBje0bYq+l8Tc2P1jAnFRRp3DJ5OKznv6GvFAyRPLzXm3
+	yblhaNXSCBE=
+	=dRuI
 
 aus.ads.commercial		Commercial advertisements.
 aus.ads.forsale			Items for sale (no commercial ads).
@@ -25,6 +25,7 @@ aus.ads.jobs			Jobs, wanted and available.
 aus.ads.jobs.resumes		Australian resumes.
 aus.ads.personals		People seeking people.
 aus.ads.wanted			Items wanted (no commercial ads).
+aus.arts.anime			Japanese animation, movies, TV shows and DVDs
 aus.arts.comics			Fans, writers & artists of comic books in Australia.
 aus.audio-visual.home-cinema	Creation of big-screen cinema in the home.
 aus.aviation			Planes, gliders, flying, etc.
