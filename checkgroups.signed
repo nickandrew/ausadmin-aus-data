@@ -4,17 +4,17 @@ Newsgroups: aus.net.news
 Subject: cmsg checkgroups
 Control: checkgroups
 Approved: ausadmin@aus.news-admin.org
-Message-ID: <1019457483.3852@aus.news-admin.org>
-Date: Mon, 22 Apr 2002 06:38:03 -0000
-Lines: 137
-X-Info: See ftp://ftp.uu.net/networking/news/misc/pgpcontrol/README
+Message-ID: <1021982469.26672@aus.news-admin.org>
+Date: Tue, 21 May 2002 12:01:09 -0000
+Lines: 138
+X-Info: See ftp://ftp.isc.org/pub/pgpcontrol/README
 X-Aussies: See http://aus.news-admin.org/ for Australian newsgroup information
 X-PGP-Sig: 2.6.3ia Subject,Control,Message-ID,Date,From,Sender
-	iQCVAwUBPMOv0FL4gcrLUivRAQGbsQQAhkfzPk2MFqsgPMUoi0DnPfnhBel2ip5N
-	P17Z6sHZI5Q8qFbzMeDfcs6IN/MuX7pBnLI/eVvutCub2E2JkiPzTCwpr5xvcWFm
-	SzEzDI2/gknxN0rNcTB9qY8qd/vPBnIAULIZMI3RKyIUV6bFiIgmcjlqtzDI+gUc
-	aQtRghrV7jI=
-	=IhIs
+	iQCVAwUBPOo3ClL4gcrLUivRAQFTEAQAtNvFhGhicb7pht/zqAsbIzXhHQfupU0j
+	OJ5aGR1AhlwVbQxp8amsK5pL4IHO1uaKmL0veT8mGv5Zh69M94mHjTQvKsMBzWoM
+	dwuTZQ3PYGOcJLIw7wdD7kJG1DR0mQP2GwdPbP3LTyvZcqXvw7SJtUw1dwW0coxq
+	Cavq/Md8m1w=
+	=XdyW
 
 aus.ads.commercial		Commercial advertisements.
 aus.ads.forsale			Items for sale (no commercial ads).
@@ -152,4 +152,5 @@ aus.tv.buffy			Discussion of the TV show Buffy and related topics.
 aus.tv.community		Community television.
 aus.tv.digital			Digital Television in Australia
 aus.tv.pay			General discussion of pay television within Australia.
+aus.tv.reality			Discussion of reality television shows as they relate to Australia
 aus.tv.x-files			Discussion of "X-Files" and related subjects.
