@@ -4,17 +4,17 @@ Newsgroups: aus.net.news
 Subject: cmsg checkgroups
 Control: checkgroups
 Approved: ausadmin@aus.news-admin.org
-Message-ID: <1021982469.26672@aus.news-admin.org>
-Date: Tue, 21 May 2002 12:01:09 -0000
-Lines: 138
+Message-ID: <1029481634.6581@aus.news-admin.org>
+Date: Fri, 16 Aug 2002 07:07:14 -0000
+Lines: 140
 X-Info: See ftp://ftp.isc.org/pub/pgpcontrol/README
 X-Aussies: See http://aus.news-admin.org/ for Australian newsgroup information
 X-PGP-Sig: 2.6.3ia Subject,Control,Message-ID,Date,From,Sender
-	iQCVAwUBPOo3ClL4gcrLUivRAQFTEAQAtNvFhGhicb7pht/zqAsbIzXhHQfupU0j
-	OJ5aGR1AhlwVbQxp8amsK5pL4IHO1uaKmL0veT8mGv5Zh69M94mHjTQvKsMBzWoM
-	dwuTZQ3PYGOcJLIw7wdD7kJG1DR0mQP2GwdPbP3LTyvZcqXvw7SJtUw1dwW0coxq
-	Cavq/Md8m1w=
-	=XdyW
+	iQCVAwUBPVykqlL4gcrLUivRAQHE3gP9ECrmnRlh9CMxd1qb5qAfOVvTwGEVmqPs
+	ack2xOgqYkqqY8Iyd9AtDXgOIUZw9Jb4rjBl2xIzgK8do8Hz9kk349uX9gZKxj+p
+	8IinCHaTcVCRq9fG3zHRfYrCMDcO/Ekz9VmMOfkFODEpv8S+gWWCaaX2hM/Jvwl7
+	JK4Tu5yPB+M=
+	=cHAt
 
 aus.ads.commercial		Commercial advertisements.
 aus.ads.forsale			Items for sale (no commercial ads).
@@ -32,6 +32,7 @@ aus.aviation.airspace		Airspace Design and Management in Australia.
 aus.bicycle			Pushbikes.
 aus.books			Australian discussion of books.
 aus.bushwalking			Bushwalking, hiking, and other outdoor activities.
+aus.business			Australian Business issues
 aus.cars			Petrol heads.
 aus.cars.offroad		Discussion of four wheel driving.
 aus.censorship			Censorship in Australia.
@@ -140,6 +141,7 @@ aus.sport.pro-wrestling		Discussion of pro-wrestling as it relates to Australia.
 aus.sport.rugby-league		Rugby League football.
 aus.sport.sailing		Discussion of sailing in Australia
 aus.sport.scuba			Scuba diving.
+aus.sport.touch			All aspects of Touch Football and Touch Rugby in Australia.
 aus.stats.s			Discussions of the S data analysis & graphics software.
 aus.students			Going to school in Australia.
 aus.students.overseas		Australian students abroad, students from abroad in Australia.
