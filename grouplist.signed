@@ -1,8 +1,8 @@
 Newsgroups: aus.net.news,news.admin.hierarchies
-Subject: List of aus.* newsgroups at 2002-10-27 13:15:05
-From: ausadmin <ausadmin@aus.news-admin.org>
 X-PGPKey: at http://aus.news-admin.org/ausadmin.asc
+Subject: List of aus.* newsgroups at 2004-12-13 05:15:25
 Organization: aus.* newsgroups administration, see http://aus.news-admin.org/
+From: ausadmin <ausadmin@aus.news-admin.org>
 
 -----BEGIN PGP SIGNED MESSAGE-----
 
@@ -137,6 +137,7 @@ aus.religion			Discussions of, or related to, religions.
 aus.religion.christian		Christianity and issues relevant to Christianity
 aus.religion.islam		Discussion of Islam and relevant issues
 aus.religion.judaism		Discussion of matters pertinent to Australian Jewry.
+aus.religion.spiritualism	Mediumship, guides, healing, spiritism, spirits etc.
 aus.science			Discussion of science in Australia
 aus.services.defence		Australian Defence forces - air, land and sea.
 aus.services.emergency		Emergency Service discussions.
@@ -148,12 +149,14 @@ aus.sport			Generic discussions of sport.
 aus.sport.aussie-rules		Australian Rules football.
 aus.sport.cricket		Discussion of Australian cricket.
 aus.sport.fishing		Discussion of fishing in Australia
+aus.sport.frisbee		Frisbee sports including ultimate frisbee and disc golf.
 aus.sport.golf			Discussion of golf as it relates to Australia
 aus.sport.motor			Motor sports.
 aus.sport.pro-wrestling		Discussion of pro-wrestling as it relates to Australia.
 aus.sport.rugby-league		Rugby League football.
 aus.sport.sailing		Discussion of sailing in Australia
 aus.sport.scuba			Scuba diving.
+aus.sport.shooting		Australian shooting sports involving firearms.
 aus.sport.touch			All aspects of Touch Football and Touch Rugby in Australia.
 aus.stats.s			Discussions of the S data analysis & graphics software.
 aus.students			Going to school in Australia.
@@ -198,12 +201,11 @@ http://aus.news-admin.org/ausadmin.asc
 Nick Andrew <ausadmin@aus.news-admin.org>
 Current ausadmin maintainer
 -----BEGIN PGP SIGNATURE-----
-Version: GnuPG v1.0.6 (GNU/Linux)
-Comment: For info see http://www.gnupg.org
+Version: GnuPG v1.2.4 (GNU/Linux)
 
-iQCVAwUBPbtML1L4gcrLUivRAQGApAP9EzpYPphO7P4lf6qgiOCbUTeljAHXkN9N
-13zKfQw3tHw6MxRxmi7JgE3ioTqn9VvZXHzbJPCcyegHdHn6i92NaTN3VNPTMYKY
-ZxZW0EtfdhzfyITEyvDrRtGShWkFaOZLpSj4Rb6USMYFH1FlrgwrhohD/hne8IOC
-pYzujJkHZtQ=
-=yAjS
+iQCVAwUBQb150lL4gcrLUivRAQEGHgP5ASN3dk3SHZeVTNwvTVRBqyAsPFjvRTNn
+r/3RvL8x6yDezKEToD7RssoslPKZDyJ8JSusHTXUikTv/AfCnI1cvXke8X/yqh2u
+8wBO4jByC09LtytQdN0Otdoce1TVWHdpWmJmWpdzP1356NDKqY1OZ+EV4brKDwzK
+BMZaPP10nBY=
+=vfP1
 -----END PGP SIGNATURE-----
