@@ -1,5 +1,10 @@
 This is a list of all current newsgroups in the aus.* USENET hierarchy.
-This list will be posted on a regular basis to aus.net.news.
+It will be posted regularly to aus.net.news and news.admin.hierarchies.
+
+For more information about the aus.* hierarchy see the ausadmin website:
+
+                http://aus.news-admin.org/
+
 
 Most versions of news support a "checkgroups" control message that
 can be used to help keep your active file in sync with the "standard"

@@ -16,8 +16,7 @@ control message authentication file (e.g. control.ctl for INN),
 please remove them and add the address of the ausadmin group given
 below.
 
-ausadmin is a volunteer effort. If you would like to assist in this
-organisation, please send E-mail to nick@zeta.org.au.
+ausadmin is a volunteer effort.
 
 ausadmin will PGP-sign all official messages (particularly newgroup
 and checkgroups control messages). You should install PGPverify
@@ -25,5 +24,5 @@ to verify that any control message purporting to be from ausadmin
 is genuine.  You will need to download the ausadmin PGP key from
 http://aus.news-admin.org/ausadmin.asc
 
-Nick Andrew <nick@zeta.org.au>
+Nick Andrew <ausadmin@aus.news-admin.org>
 Current ausadmin maintainer
