@@ -106,6 +106,7 @@ aus.religion			Discussions of, or related to, religions.
 aus.religion.christian		Christianity and issues relevant to Christianity
 aus.religion.islam		Discussion of Islam and relevant issues
 aus.religion.judaism		Discussion of matters pertinent to Australian Jewry.
+aus.science			Discussion of science in Australia
 aus.services.emergency		Emergency Service discussions.
 aus.sf				Australian discussion of SF&F literature, media, fandom.
 aus.sf.babylon5			The TV series _Babylon 5_.
@@ -129,5 +130,6 @@ aus.transport			Transportation infrastructure and vehicles.
 aus.tv				Television.
 aus.tv.buffy			Discussion of the TV show Buffy and related topics.
 aus.tv.community		Community television.
+aus.tv.digital			Digital Television in Australia
 aus.tv.pay			General discussion of pay television within Australia.
 aus.tv.x-files			Discussion of "X-Files" and related subjects.
