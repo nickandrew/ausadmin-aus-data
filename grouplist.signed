@@ -1,11 +1,31 @@
 Newsgroups: aus.net.news,news.admin.hierarchies
-Subject: List of aus.* newsgroups at 2002-08-19 14:31:05
+Subject: List of aus.* newsgroups at 2002-08-28 13:15:19
 From: ausadmin <ausadmin@aus.news-admin.org>
 X-PGPKey: at http://aus.news-admin.org/ausadmin.asc
 Organization: aus.* newsgroups administration, see http://aus.news-admin.org/
 
 -----BEGIN PGP SIGNED MESSAGE-----
 
+This is a list of all current newsgroups in the aus.* USENET hierarchy.
+It will be posted regularly to aus.net.news and news.admin.hierarchies.
+
+For more information about the aus.* hierarchy see the ausadmin website:
+
+                http://aus.news-admin.org/
+
+
+Most versions of news support a "checkgroups" control message that
+can be used to help keep your active file in sync with the "standard"
+Usenet groups.  What follows is a skeleton checkgroups control message
+that you can customize and run locally to check your active file.
+
+The following should be extracted and then passed directly to your
+checkgroups script on standard input.  It can also be posted locally,
+with a distribution set to keep it internal to your local
+organization.  This is NOT the preferred method of operation, however,
+as distributions frequently leak to a wider distribution of machines.
+
+========================= cut to this line =========================
 aus.ads.commercial		Commercial advertisements.
 aus.ads.forsale			Items for sale (no commercial ads).
 aus.ads.forsale.cars		Cars & parts for sale & wanted in Australia.
@@ -148,13 +168,41 @@ aus.tv.digital			Digital Television in Australia
 aus.tv.pay			General discussion of pay television within Australia.
 aus.tv.reality			Discussion of reality television shows as they relate to Australia
 aus.tv.x-files			Discussion of "X-Files" and related subjects.
+=========================cut from this line=========================
+
+ATTENTION NEWS ADMINS:
+
+As of 2nd April 1998, the aus.* newsgroup hierarchy is being
+maintained by an organisation known as "ausadmin". The purpose of
+this organisation is to provide a reliable source of information
+on Australian newsgroups and to guide the further development of
+the aus.* hierarchy.
+
+Prior to that date aus.* control messages were posted by Phil
+Herring <revdoc@cs.uow.edu.au>, and even earlier, by Robert Elz
+<kre@munnari.oz.au>.  These gentlemen no longer send control or
+checkgroup messages. If they are listed in your news server's
+control message authentication file (e.g. control.ctl for INN),
+please remove them and add the address of the ausadmin group given
+below.
+
+ausadmin is a volunteer effort.
+
+ausadmin will PGP-sign all official messages (particularly newgroup
+and checkgroups control messages). You should install PGPverify
+to verify that any control message purporting to be from ausadmin
+is genuine.  You will need to download the ausadmin PGP key from
+http://aus.news-admin.org/ausadmin.asc
+
+Nick Andrew <ausadmin@aus.news-admin.org>
+Current ausadmin maintainer
 -----BEGIN PGP SIGNATURE-----
 Version: GnuPG v1.0.6 (GNU/Linux)
 Comment: For info see http://www.gnupg.org
 
-iQCVAwUBPWB0jVL4gcrLUivRAQH++gP/fulFIy0WwFHmHHla8rVYsQaBUBUlV0lX
-5xsDbyUA45RkbHGuBwZHCYXspwpirHyoiR3kEDadLrA6Li09iOoaXc6dda/ThKhF
-+TsM0RLgM3slNQOl3e52J4fly2r82R/lvlOIL8CklOPrZII5yYhp+4iFzx9+Gz1Z
-KQPhR00I6pY=
-=dIQj
+iQCVAwUBPWxATVL4gcrLUivRAQEkiwP/UJvcXULHa+Wa0hvRdnfm9+qJAXq3Nuxa
+hGhh0R6d+SZrT7iuW4q5XF87KycTG3W0JtrYpkZTZaLVBq0omXuAVVgDbC+Yyxik
+IeRsWoI8eWsGbhvZiNapM5Taq+KFxJgYM/AfI+LRndc42QVfECpiHXDwYhsjtqO3
+6MaXfZL8Xd0=
+=2sjB
 -----END PGP SIGNATURE-----
