@@ -4,17 +4,17 @@ Newsgroups: aus.net.news
 Subject: cmsg checkgroups
 Control: checkgroups
 Approved: ausadmin@aus.news-admin.org
-Message-ID: <1061292762.7488@aus.news-admin.org>
-Date: Tue, 19 Aug 2003 11:32:42 -0000
-Lines: 143
+Message-ID: <1064038952.15050@aus.news-admin.org>
+Date: Sat, 20 Sep 2003 06:22:32 -0000
+Lines: 144
 X-Info: See ftp://ftp.isc.org/pub/pgpcontrol/README
 X-Aussies: See http://aus.news-admin.org/ for Australian newsgroup information
 X-PGP-Sig: 2.6.3ia Subject,Control,Message-ID,Date,From,Sender
-	iQCVAwUBP0IK4VL4gcrLUivRAQHxFgP/VLm9+0x6T5gceRpM/iCJT0+TjrMMdYzM
-	AiPp4ecE0wfrFKOsVa6K+HcRuT0qZAtpd2oKvPet5aXdu3b1pAknhiiY7kqjx63q
-	yr/1dReE0USx4N2FTty7gmjBXAJsSYSnFo37HI/UbqSgH1E9fuQjU6z5BkNrHvVE
-	lbPQ2lHY5kc=
-	=Mtb1
+	iQCVAwUBP2vyTFL4gcrLUivRAQEu4gQAk/2CVyt+G2UyaATReLtl7tURyzmGoIET
+	WgM9+9TMUToDAmZmLRvbqdkTx3dIeW+al62LcrP2pedKWHFUoYf3/rP1EKYn8sTM
+	MD3ZV48E1oEn3xfE+6eIyeIpvNIYe7mkzs1F7UG0MyGaD/Gy9cs7lyrbugFgkJ3E
+	lEVtAyELf2c=
+	=sUD4
 
 aus.ads.commercial	Commercial advertisements.
 aus.ads.forsale	Items for sale (no commercial ads).
@@ -138,6 +138,7 @@ aus.sport	Generic discussions of sport.
 aus.sport.aussie-rules	Australian Rules football.
 aus.sport.cricket	Discussion of Australian cricket.
 aus.sport.fishing	Discussion of fishing in Australia
+aus.sport.frisbee	Frisbee sports including ultimate frisbee and disc golf.
 aus.sport.golf	Discussion of golf as it relates to Australia
 aus.sport.motor	Motor sports.
 aus.sport.pro-wrestling	Discussion of pro-wrestling as it relates to Australia.
