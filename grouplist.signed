@@ -1,6 +1,5 @@
-Followup-To: aus.net.news
-Newsgroups: aus.net.news
-Subject: List of aus.* newsgroups at 2002-04-22 16:32:45
+Newsgroups: aus.net.news,news.admin.hierarchies
+Subject: List of aus.* newsgroups at 2002-05-22 01:06:47
 From: ausadmin <ausadmin@aus.news-admin.org>
 X-PGPKey: at http://aus.news-admin.org/ausadmin.asc
 Organization: aus.* newsgroups administration, see http://aus.news-admin.org/
@@ -8,7 +7,12 @@ Organization: aus.* newsgroups administration, see http://aus.news-admin.org/
 -----BEGIN PGP SIGNED MESSAGE-----
 
 This is a list of all current newsgroups in the aus.* USENET hierarchy.
-This list will be posted on a regular basis to aus.net.news.
+It will be posted regularly to aus.net.news and news.admin.hierarchies.
+
+For more information about the aus.* hierarchy see the ausadmin website:
+
+                http://aus.news-admin.org/
+
 
 Most versions of news support a "checkgroups" control message that
 can be used to help keep your active file in sync with the "standard"
@@ -158,6 +162,7 @@ aus.tv.buffy			Discussion of the TV show Buffy and related topics.
 aus.tv.community		Community television.
 aus.tv.digital			Digital Television in Australia
 aus.tv.pay			General discussion of pay television within Australia.
+aus.tv.reality			Discussion of reality television shows as they relate to Australia
 aus.tv.x-files			Discussion of "X-Files" and related subjects.
 =========================cut from this line=========================
 
@@ -191,9 +196,9 @@ Current ausadmin maintainer
 Version: GnuPG v1.0.6 (GNU/Linux)
 Comment: For info see http://www.gnupg.org
 
-iQCVAwUBPMOvaVL4gcrLUivRAQGWLAP/aHm4zoBtR6DGPPEv8adTxrykAWl/DYyx
-av8AV2Y5TTkiur+UTMmU3WYxqwh2Xw+BRRwIqoa2V2m2b05NMe3SeejuIOhfdkvM
-X6GByOIz4lpTjigx7SGD1vN0j/Qwback4ZDEbSTsl3Vb+oGEBpW3rL1iHZChA+xm
-bp6C4uLtLZ8=
-=8et0
+iQCVAwUBPOpijVL4gcrLUivRAQGX/AP+L3Ntp9KqIvRtl8JcV4bdSe7Y44DaQ+lL
+FwVob+iHlNf+kSJoIuphcPSU5NK1m3Cj+WZVnWPy2r/1yr3fJGdQ7H7xWNvZo1tL
++B6UNKjpjqAr8JMjM727Y2zMnvUmHpRgPAr0z5+eLalAu9XHbOVBfPo1j3ArlB2o
+q4i0PGpcLyE=
+=LcZy
 -----END PGP SIGNATURE-----
