@@ -4,17 +4,17 @@ Newsgroups: aus.net.news
 Subject: cmsg checkgroups
 Control: checkgroups
 Approved: ausadmin@aus.news-admin.org
-Message-ID: <1029724444.29561@aus.news-admin.org>
-Date: Mon, 19 Aug 2002 02:34:04 -0000
-Lines: 141
+Message-ID: <1029731562.32242@aus.news-admin.org>
+Date: Mon, 19 Aug 2002 04:32:42 -0000
+Lines: 142
 X-Info: See ftp://ftp.isc.org/pub/pgpcontrol/README
 X-Aussies: See http://aus.news-admin.org/ for Australian newsgroup information
 X-PGP-Sig: 2.6.3ia Subject,Control,Message-ID,Date,From,Sender
-	iQCVAwUBPWBZIVL4gcrLUivRAQHHiAP7BEu0PG1RX7briuXlycT2G5u4EyjUedOA
-	WzSYsE/0e65l0c/tpMx3kcI8SvKTWmUecxmU1AUOIsmIlLlfJxw04nKy8sB2FrS9
-	m6uHPHdG4jdozoW7dagb+jfTXDzUU87Nxo2kk3jyIx7zbrwtyqmLx6+UFE7novv1
-	OUUFYLwLi/o=
-	=4kRL
+	iQCVAwUBPWB071L4gcrLUivRAQGduQP6Ay9hHvUp8/TfIwJO+d+0AWyDyIs8187X
+	znagjwY8uEajcgJZuYmbAKAsKJjWEbxjZUvfcHw2mXk/PHaiXaK4t7Yem4osNdW6
+	oXy0xC2uKTn4p+t8GZtysz11jx0NLUNkeuJ8J4pP3jRhq4dXTATObNpiQF/tqOrc
+	nLnIDzYWuUY=
+	=pxus
 
 aus.ads.commercial		Commercial advertisements.
 aus.ads.forsale			Items for sale (no commercial ads).
@@ -137,6 +137,7 @@ aus.sport			Generic discussions of sport.
 aus.sport.aussie-rules		Australian Rules football.
 aus.sport.cricket		Discussion of Australian cricket.
 aus.sport.fishing		Discussion of fishing in Australia
+aus.sport.golf			Discussion of golf as it relates to Australia
 aus.sport.motor			Motor sports.
 aus.sport.pro-wrestling		Discussion of pro-wrestling as it relates to Australia.
 aus.sport.rugby-league		Rugby League football.
