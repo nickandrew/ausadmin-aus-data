@@ -4,17 +4,17 @@ Newsgroups: aus.net.news
 Subject: cmsg checkgroups
 Control: checkgroups
 Approved: ausadmin@aus.news-admin.org
-Message-ID: <1064038952.15050@aus.news-admin.org>
-Date: Sat, 20 Sep 2003 06:22:32 -0000
-Lines: 144
+Message-ID: <1067061381.2432@aus.news-admin.org>
+Date: Sat, 25 Oct 2003 05:56:21 -0000
+Lines: 145
 X-Info: See ftp://ftp.isc.org/pub/pgpcontrol/README
 X-Aussies: See http://aus.news-admin.org/ for Australian newsgroup information
 X-PGP-Sig: 2.6.3ia Subject,Control,Message-ID,Date,From,Sender
-	iQCVAwUBP2vyTFL4gcrLUivRAQEu4gQAk/2CVyt+G2UyaATReLtl7tURyzmGoIET
-	WgM9+9TMUToDAmZmLRvbqdkTx3dIeW+al62LcrP2pedKWHFUoYf3/rP1EKYn8sTM
-	MD3ZV48E1oEn3xfE+6eIyeIpvNIYe7mkzs1F7UG0MyGaD/Gy9cs7lyrbugFgkJ3E
-	lEVtAyELf2c=
-	=sUD4
+	iQCVAwUBP5oQjFL4gcrLUivRAQFXCQP9HNDCaL08wfpESL1n2pQPzKKEoxC9ZfFZ
+	3iJqN5uiw/fb6PW6TOQsrbXMMGPdbu3ZYCi49ECq3w54waH4BNM/dKEbvaV6V7Cn
+	ZqE79w2Zwz5To4sBmKSx61ENhOWVvYaMm2qeCwM7bWbqnSa/UXDEMBr8FPYKeLuK
+	1C157uhu2uo=
+	=gEV1
 
 aus.ads.commercial	Commercial advertisements.
 aus.ads.forsale	Items for sale (no commercial ads).
@@ -127,6 +127,7 @@ aus.religion	Discussions of, or related to, religions.
 aus.religion.christian	Christianity and issues relevant to Christianity
 aus.religion.islam	Discussion of Islam and relevant issues
 aus.religion.judaism	Discussion of matters pertinent to Australian Jewry.
+aus.religion.spiritualism	Mediumship, guides, healing, spiritism, spirits etc.
 aus.science	Discussion of science in Australia
 aus.services.defence	Australian Defence forces - air, land and sea.
 aus.services.emergency	Emergency Service discussions.
