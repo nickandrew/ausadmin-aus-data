@@ -1,18 +1,21 @@
 aus.ads.commercial		Commercial advertisements.
 aus.ads.forsale			Items for sale (no commercial ads).
+aus.ads.forsale.cars		Cars & parts for sale & wanted in Australia.
 aus.ads.forsale.computers.new	Advertisements for new computer hardware
 aus.ads.forsale.computers.used	Advertisements for used or second hand
 aus.ads.jobs			Jobs, wanted and available.
-aus.ads.jobs.moderated		Australian jobs available (Moderated)
 aus.ads.jobs.resumes		Australian resumes.
 aus.ads.personals		People seeking people.
 aus.ads.wanted			Items wanted (no commercial ads).
+aus.arts.comics			Fans, writers & artists of comic books in Australia.
+aus.audio-visual.home-cinema	Creation of big-screen cinema in the home.
 aus.aviation			Planes, gliders, flying, etc.
 aus.aviation.airspace		Airspace Design and Management in Australia.
 aus.bicycle			Push bikes.
 aus.books			Australian discussion of books.
 aus.bushwalking			Bushwalking, hiking, and other outdoor activities.
 aus.cars			Petrol heads.
+aus.cars.offroad		Discussion of four wheel driving.
 aus.censorship			Censorship in Australia.
 aus.comms			Discussion about communications in general.
 aus.comms.mobile		Mobile communications in Australia.
@@ -22,6 +25,7 @@ aus.computers.ai		AI discussions.
 aus.computers.amiga		Discussions about Commodore Amiga computers.
 aus.computers.cdrom		CD-ROM
 aus.computers.ibm-pc		Discussions about the IBM pc & clones.
+aus.computers.java		Australian Java users.
 aus.computers.linux		The Linux operating system.
 aus.computers.logic-prog	Logic Programming.
 aus.computers.mac		Macintosh computers and software.
@@ -31,9 +35,10 @@ aus.computers.sun		Sun computers and software.
 aus.computers.tex		The Tex typesetting system.
 aus.consumers			Consumer Products/Services in Australia
 aus.culture.china		soc.culture.china redistributed.
-aus.culture.hellenic		Hellenic culture in Australia.
 aus.culture.gothic		The Gothic subculture in Australia
+aus.culture.hellenic		Hellenic culture in Australia.
 aus.culture.lesbigay		Gay and bisexual life.
+aus.culture.naturist		For Sun Lovers of Australia
 aus.culture.ultimo		Inner-city life.
 aus.dvd				Digital Versatile Disk in Australia.
 aus.education			Helping educators in Australia.
@@ -46,9 +51,9 @@ aus.films			Movies, Cinema, TV.
 aus.flame			Abusive noise, posted by morons.
 aus.flame.gareth-powell		Australia's favourite computer journalist.
 aus.flame.usa			Careful, reasoned criticism of the United States of America.
-aus.foodtech			Food technology.
 aus.games			Discussions of games.
 aus.games.bridge		The game of bridge.
+aus.games.network		Discussion of Australian network gaming
 aus.games.roleplay		Discussions of role playing games.
 aus.gardens			Gardens and gardening in Australia.
 aus.general			General information, announcements, etc.
@@ -59,7 +64,7 @@ aus.legal			Legal issues.
 aus.legal.moderated		A moderated Australian and New Zealand legal group. (Moderated)
 aus.mathematics			Mathematics teaching and research.
 aus.mbio			Molecular biology.
-aus.media-watch			Embittered, pompous gits of the net, unite!
+aus.media-watch			The quality of journalism and media in Australia.
 aus.motorcycles			Discussion of motorcycles and motorcycling.
 aus.music			Music and related issues.
 aus.net.access			Internet access.
@@ -93,16 +98,22 @@ aus.radio.scanner		Scanner frequency tips & tricks for Monitoring In Aust.
 aus.radio.showprep		Show preparation for on-air professionals.
 aus.rail			Railways and trains, both actual and model.
 aus.rail.models			Model railways and trains.
+aus.rec.climbing		Discussion of climbing in Australia.
 aus.religion			Discussions of, or related to, religions.
 aus.religion.christian		Christianity and issues relevant to Christianity
+aus.religion.islam		Discussion of Islam and relavent issues
+aus.religion.judaism		Discussion of matters pertenant to Australian Jewry.
+aus.services.emergency		Emergency Service discussions.
 aus.sf				Australian discussion of SF&F literature, media, fandom.
 aus.sf.babylon5			The TV series _Babylon 5_.
 aus.sf.star-trek		_Star Trek_, old and new.
 aus.snow			Winter sports in Australia.
 aus.sport			Generic discussions of sport.
 aus.sport.aussie-rules		Australian rules football.
+aus.sport.fishing		Discussion of fishing in Australia
 aus.sport.motor			Motor sports.
 aus.sport.rugby-league		Rugby league football.
+aus.sport.sailing		Discussion of sailing in Australia
 aus.sport.scuba			Scuba diving.
 aus.stats.s			Discussions of the S data analysis & graphics software.
 aus.students			Going to school in Australia.
@@ -112,6 +123,11 @@ aus.test			Test messages.
 aus.theatre			The theatre.
 aus.transport			Transportation infrastructure and vehicles.
 aus.tv				Television.
+aus.tv.buffy			Discussion of the TV show Buffy and related topics.
 aus.tv.community		Community television.
 aus.tv.pay			General discussion of pay television within Australia.
 aus.tv.x-files			Discussion of "X-Files" and related subjects.
+aus.org.acsev			ACSEV - Association of Consulting Structural Engineers
+aus.sport.cricket		Discussion of Australian cricket.
+aus.culture.true-blue		True-Blue Australian Culture Group.
+aus.radio.cb			Citizens Band radio in Australia
