@@ -4,17 +4,17 @@ Newsgroups: aus.net.news
 Subject: cmsg checkgroups
 Control: checkgroups
 Approved: ausadmin@aus.news-admin.org
-Message-ID: <1029481634.6581@aus.news-admin.org>
-Date: Fri, 16 Aug 2002 07:07:14 -0000
-Lines: 140
+Message-ID: <1029724355.29538@aus.news-admin.org>
+Date: Mon, 19 Aug 2002 02:32:35 -0000
+Lines: 141
 X-Info: See ftp://ftp.isc.org/pub/pgpcontrol/README
 X-Aussies: See http://aus.news-admin.org/ for Australian newsgroup information
 X-PGP-Sig: 2.6.3ia Subject,Control,Message-ID,Date,From,Sender
-	iQCVAwUBPVykqlL4gcrLUivRAQHE3gP9ECrmnRlh9CMxd1qb5qAfOVvTwGEVmqPs
-	ack2xOgqYkqqY8Iyd9AtDXgOIUZw9Jb4rjBl2xIzgK8do8Hz9kk349uX9gZKxj+p
-	8IinCHaTcVCRq9fG3zHRfYrCMDcO/Ekz9VmMOfkFODEpv8S+gWWCaaX2hM/Jvwl7
-	JK4Tu5yPB+M=
-	=cHAt
+	iQCVAwUBPWBYyFL4gcrLUivRAQFPyQQApU33G6gBNHNwb+SX61L41EeHdJKOk2fk
+	NtW8vtctpu/w1S/I2ObRx1tnYXuZs+vi8bEEcaGaxSo7L+5DMmhgcHyLQ2PXYJPN
+	tfmGAPCLivud79RZ/pCLeQhjm0A2Zr+Bh9ybAKe8EZQHFIGiV/zgUL/6kOML3SoE
+	2lKxZJWh9pk=
+	=IyJB
 
 aus.ads.commercial		Commercial advertisements.
 aus.ads.forsale			Items for sale (no commercial ads).
@@ -127,6 +127,7 @@ aus.religion.christian		Christianity and issues relevant to Christianity
 aus.religion.islam		Discussion of Islam and relevant issues
 aus.religion.judaism		Discussion of matters pertinent to Australian Jewry.
 aus.science			Discussion of science in Australia
+aus.services.defence		Australian Defence forces - air, land and sea.
 aus.services.emergency		Emergency Service discussions.
 aus.sf				Australian discussion of SF&F literature, media, fandom.
 aus.sf.babylon5			The TV series _Babylon 5_.
