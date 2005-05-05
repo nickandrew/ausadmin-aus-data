@@ -4,17 +4,17 @@ Newsgroups: aus.net.news
 Subject: cmsg checkgroups
 Control: checkgroups
 Approved: ausadmin@aus.news-admin.org
-Message-ID: <1102937552.29150@aus.news-admin.org>
-Date: Mon, 13 Dec 2004 11:32:32 -0000
-Lines: 146
-X-Info: See ftp://ftp.isc.org/pub/pgpcontrol/README
-X-Aussies: See http://aus.news-admin.org/ for Australian newsgroup information
-X-PGP-Sig: GnuPG v1.2.4 (GNU/Linux) Subject,Control,Message-ID,Date,From,Sender
-	iQCVAwUBQb191FL4gcrLUivRAQEJtQQAsdx4juPbULf5rs/tLZJcFS4flpbklNg6
-	fPKSXtGuHZuGVcDh/x5H3Rgd7bdOPkUJjTvBVCHw9B/2fUgaFkAX1VIFG4uvfdQL
-	pFhm/NswQzybiHn1Po4wwb/Cn7OeH8ZB1qYBfd+w0EfEC8eQ27rwof0CkyoTh1s7
-	PENGaV7gMIg=
-	=oI+c
+Message-ID: <1115272785.7544@aus.news-admin.org>
+Date: Thu, 05 May 2005 05:59:45 -0000
+Lines: 147
+X-Info: ftp://ftp.isc.org/pub/pgpcontrol/README.html
+	ftp://ftp.isc.org/pub/pgpcontrol/README
+X-PGP-Sig: v1.2.5 Subject,Control,Message-ID,Date,From,Sender
+	iQCVAwUBQnm2VVL4gcrLUivRAQFcQgP/TgZ+q9nHOjL4WEW/v0VFWaRhvPk5WxF4
+	FAvJYw/OIqmOFkMNk/oWmUxMBgyS0vPSg8x2HcWfXaQXL+ox9LNn9QPbB2efN7Zo
+	kpuE6mnGsuBaFfokMsSB48iPthkUfYHsi2L7WPQyFzVBnLqx1/Xlji+Xej1C+12K
+	JKLPBoJq+kQ=
+	=VbLE
 
 aus.ads.commercial	Commercial advertisements.
 aus.ads.forsale	Items for sale (no commercial ads).
@@ -68,6 +68,7 @@ aus.education.open-learning	The Open Learning program.
 aus.electronics	Electronics hobbyists and engineers.
 aus.environment.conservation	Information and discussion of conservation issues.
 aus.environment.misc	Miscellaneous environmental issues.
+aus.family	Australian Family Discussion
 aus.films	Movies, Cinema, TV.
 aus.flame	Abusive noise, posted by morons.
 aus.flame.gareth-powell	Australia's favourite computer journalist.
