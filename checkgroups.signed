@@ -4,17 +4,17 @@ Newsgroups: aus.net.news
 Subject: cmsg checkgroups
 Control: checkgroups
 Approved: ausadmin@aus.news-admin.org
-Message-ID: <1115272785.7544@aus.news-admin.org>
-Date: Thu, 05 May 2005 05:59:45 -0000
+Message-ID: <1115273394.9636@aus.news-admin.org>
+Date: Thu, 05 May 2005 06:09:54 -0000
 Lines: 147
 X-Info: ftp://ftp.isc.org/pub/pgpcontrol/README.html
 	ftp://ftp.isc.org/pub/pgpcontrol/README
 X-PGP-Sig: v1.2.5 Subject,Control,Message-ID,Date,From,Sender
-	iQCVAwUBQnm2VVL4gcrLUivRAQFcQgP/TgZ+q9nHOjL4WEW/v0VFWaRhvPk5WxF4
-	FAvJYw/OIqmOFkMNk/oWmUxMBgyS0vPSg8x2HcWfXaQXL+ox9LNn9QPbB2efN7Zo
-	kpuE6mnGsuBaFfokMsSB48iPthkUfYHsi2L7WPQyFzVBnLqx1/Xlji+Xej1C+12K
-	JKLPBoJq+kQ=
-	=VbLE
+	iQCVAwUBQnm4u1L4gcrLUivRAQGutQP/edDq5ghPo2p9t/1czD8Xbk18AlWz7IgJ
+	9KzvXK6bZMi5eMU0rg2jO6Td0Jv8+T2BNkdBUkzhSG88S+YfWaDhl/UciSrtBGNT
+	BQBgKwX20E0riAx5cUNSI2RumVvrMI6sFgp3OTa/L2cO0p+9nYjnvxnXaVbWwYrq
+	COx2U20+2aw=
+	=mmIG
 
 aus.ads.commercial	Commercial advertisements.
 aus.ads.forsale	Items for sale (no commercial ads).
@@ -66,7 +66,7 @@ aus.education	Helping educators in Australia.
 aus.education.bio-newtech	New Technologies in Biology Teaching.
 aus.education.open-learning	The Open Learning program.
 aus.electronics	Electronics hobbyists and engineers.
-aus.environment.conservation	Information and discussion of conservation issues.
+aus.environment.conservation	Conservation issues
 aus.environment.misc	Miscellaneous environmental issues.
 aus.family	Australian Family Discussion
 aus.films	Movies, Cinema, TV.
@@ -114,7 +114,7 @@ aus.pets	Australasian pet owners, and their pets.
 aus.photo	Photography, video, etc.
 aus.politics	Politics, debates, rational(?) arguments.
 aus.politics.guns	Gun control in Australia
-aus.radio.amateur.digital	Digital techniques (packet etc) in Amateur Radio.
+aus.radio.amateur.digital	Digital techniques in Amateur Radio.
 aus.radio.amateur.misc	Amateur Radio.
 aus.radio.amateur.wicen	Wireless Institute Civil Emergency Network.
 aus.radio.broadcast	Australian broadcast radio.
@@ -128,7 +128,7 @@ aus.religion	Discussions of, or related to, religions.
 aus.religion.christian	Christianity and issues relevant to Christianity
 aus.religion.islam	Discussion of Islam and relevant issues
 aus.religion.judaism	Discussion of matters pertinent to Australian Jewry.
-aus.religion.spiritualism	Mediumship, guides, healing, spiritism, spirits etc.
+aus.religion.spiritualism	Mediumship, guides, healing, spiritism, etc.
 aus.science	Discussion of science in Australia
 aus.services.defence	Australian Defence forces - air, land and sea.
 aus.services.emergency	Emergency Service discussions.
