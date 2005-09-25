@@ -4,17 +4,17 @@ Newsgroups: aus.net.news
 Subject: cmsg checkgroups
 Control: checkgroups
 Approved: ausadmin@aus.news-admin.org
-Message-ID: <1115273394.9636@aus.news-admin.org>
-Date: Thu, 05 May 2005 06:09:54 -0000
-Lines: 147
+Message-ID: <1127657502.24062@aus.news-admin.org>
+Date: Sun, 25 Sep 2005 14:11:42 -0000
+Lines: 148
 X-Info: ftp://ftp.isc.org/pub/pgpcontrol/README.html
 	ftp://ftp.isc.org/pub/pgpcontrol/README
 X-PGP-Sig: v1.2.5 Subject,Control,Message-ID,Date,From,Sender
-	iQCVAwUBQnm4u1L4gcrLUivRAQGutQP/edDq5ghPo2p9t/1czD8Xbk18AlWz7IgJ
-	9KzvXK6bZMi5eMU0rg2jO6Td0Jv8+T2BNkdBUkzhSG88S+YfWaDhl/UciSrtBGNT
-	BQBgKwX20E0riAx5cUNSI2RumVvrMI6sFgp3OTa/L2cO0p+9nYjnvxnXaVbWwYrq
-	COx2U20+2aw=
-	=mmIG
+	iQCVAwUBQzawIlL4gcrLUivRAQFNTwP+Mk/A+J5/0VCH67W7hw86K1NpNcc4mSl2
+	CYWKDalhPxYXDVGLwerJaZiIHT4knx+KBynnsKr0XjpOGl9rt+OFOqYuMFgFYVv7
+	BnWj6Npr441ZsFRmVGrY1/QL7P//rkoBm0eZ+3HlL8xRVydmeWqHlsOKrPXYYs1j
+	oYHNO3rxYJ0=
+	=vbOW
 
 aus.ads.commercial	Commercial advertisements.
 aus.ads.forsale	Items for sale (no commercial ads).
@@ -73,6 +73,7 @@ aus.films	Movies, Cinema, TV.
 aus.flame	Abusive noise, posted by morons.
 aus.flame.gareth-powell	Australia's favourite computer journalist.
 aus.flame.usa	Careful, reasoned criticism of the United States of America.
+aus.food	Australian food: its cooking and consumption!
 aus.games	Discussions of games.
 aus.games.bridge	The game of Bridge.
 aus.games.network	Discussion of Australian network gaming
