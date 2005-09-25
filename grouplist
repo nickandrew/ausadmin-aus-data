@@ -48,13 +48,14 @@ aus.education			Helping educators in Australia.
 aus.education.bio-newtech	New Technologies in Biology Teaching.
 aus.education.open-learning	The Open Learning program.
 aus.electronics			Electronics hobbyists and engineers.
-aus.environment.conservation	Information and discussion of conservation issues.
+aus.environment.conservation	Conservation issues
 aus.environment.misc		Miscellaneous environmental issues.
 aus.family			Australian Family Discussion
 aus.films			Movies, Cinema, TV.
 aus.flame			Abusive noise, posted by morons.
 aus.flame.gareth-powell		Australia's favourite computer journalist.
 aus.flame.usa			Careful, reasoned criticism of the United States of America.
+aus.food			Australian food: its cooking and consumption!
 aus.games			Discussions of games.
 aus.games.bridge		The game of Bridge.
 aus.games.network		Discussion of Australian network gaming
@@ -96,7 +97,7 @@ aus.pets			Australasian pet owners, and their pets.
 aus.photo			Photography, video, etc.
 aus.politics			Politics, debates, rational(?) arguments.
 aus.politics.guns		Gun control in Australia
-aus.radio.amateur.digital	Digital techniques (packet etc) in Amateur Radio.
+aus.radio.amateur.digital	Digital techniques in Amateur Radio.
 aus.radio.amateur.misc		Amateur Radio.
 aus.radio.amateur.wicen		Wireless Institute Civil Emergency Network.
 aus.radio.broadcast		Australian broadcast radio.
@@ -110,7 +111,7 @@ aus.religion			Discussions of, or related to, religions.
 aus.religion.christian		Christianity and issues relevant to Christianity
 aus.religion.islam		Discussion of Islam and relevant issues
 aus.religion.judaism		Discussion of matters pertinent to Australian Jewry.
-aus.religion.spiritualism	Mediumship, guides, healing, spiritism, spirits etc.
+aus.religion.spiritualism	Mediumship, guides, healing, spiritism, etc.
 aus.science			Discussion of science in Australia
 aus.services.defence		Australian Defence forces - air, land and sea.
 aus.services.emergency		Emergency Service discussions.
