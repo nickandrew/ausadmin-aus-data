@@ -16,7 +16,7 @@ not see or do not process the (ir)regular aus.* checkgroups messages.
 If you wish to verify that this newsgroup is legitimate,
 please check the ausadmin information for this newsgroup at:
 
-	http://aus.news-admin.org/groupinfo.php/$name
+	http://aus.news-admin.org/Charters/$name
 
 This control message should be signed with PGP. If it is not,
 or if the signature is invalid, it _may_ be forged. Please see
